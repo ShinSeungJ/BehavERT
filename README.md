@@ -172,7 +172,7 @@ docker build -t behavert .
 docker run --gpus all -it behavert
 ```
 
-## 🚀 Quick Start
+<!-- ## 🚀 Quick Start
 
 ### 1. Pretraining (Self-supervised)
 ```bash
@@ -213,7 +213,7 @@ python scripts/inference.py \
     --model_path /path/to/model.pt \
     --input_data /path/to/keypoints.pt \
     --output_file predictions.csv
-```
+``` -->
 <!-- 
 ## 📈 Performance Benchmarks
 
