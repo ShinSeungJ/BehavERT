@@ -214,7 +214,7 @@ python scripts/inference.py \
     --input_data /path/to/keypoints.pt \
     --output_file predictions.csv
 ```
-
+<!-- 
 ## 📈 Performance Benchmarks
 
 ### CalMS21 Results
@@ -234,9 +234,9 @@ python scripts/inference.py \
 ### Cross-dataset Transfer
 - **CalMS21 → SBeA**: 15% improvement over training from scratch
 - **MABe22 → Pair24M**: 12% improvement in social behavior detection
-- **Multi-dataset Pretraining**: 8-20% improvement across all tasks
+- **Multi-dataset Pretraining**: 8-20% improvement across all tasks -->
 
-## 🔬 Research Applications
+<!-- ## 🔬 Research Applications
 
 ### Neuroscience
 - **Behavioral Phenotyping**: Automated quantification of behavioral differences
@@ -264,12 +264,12 @@ If you use BehavERT in your research, please cite:
   journal={International Journal of Computer Vision},
   year={2024},
   publisher={Springer}
-}
-```
+} -->
+<!-- ``` -->
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details. -->
 
 ### Development Setup
 ```bash
@@ -287,19 +287,19 @@ pytest tests/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+<!-- 
 ## 🙏 Acknowledgments
 
 - **CalMS21 Challenge**: For providing benchmark datasets and evaluation frameworks
 - **MABe Challenge**: For multi-animal behavior analysis datasets
 - **Transformers Library**: For the foundational BERT implementations
-- **Research Community**: For valuable feedback and collaboration
+- **Research Community**: For valuable feedback and collaboration -->
 
-## 📞 Contact
+<!-- ## 📞 Contact
 
 - **Primary Author**: [Your Name] ([your.email@institution.edu])
 - **Lab Website**: [Your Lab URL]
-- **Issues**: Please use GitHub Issues for bug reports and feature requests
+- **Issues**: Please use GitHub Issues for bug reports and feature requests -->
 
 ## 🔗 Related Work
 
