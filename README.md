@@ -160,7 +160,7 @@ BehavERT/
 
 ### Quick Install
 ```bash
-git clone https://github.com/yourusername/BehavERT.git
+git clone https://github.com/ShinSeungJ/BehavERT.git
 cd BehavERT
 pip install -r requirements.txt
 pip install -e .
@@ -273,7 +273,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/BehavERT.git
+git clone https://github.com/ShinSeungJ/BehavERT.git
 cd BehavERT
 pip install -e ".[dev]"
 pre-commit install
